@@ -7,10 +7,8 @@ import (
 	"strings"
 )
 
-// the function takes an array of length n and returns pairs
-// ie [red red red red blue yellow blue]
-// and returns the number of pairs of socks in the array
-// ie 3
+// the function takes a space-separated string array of length n from StdIn and returns pairs
+// ie input of "red red red red blue yellow blue" will return "3"
 
 func main() {
 
